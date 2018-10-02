@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  theatre_id: MyString
+  name: MyString
+  address: MyString
+  phone_no: MyString
+
+two:
+  theatre_id: MyString
+  name: MyString
+  address: MyString
+  phone_no: MyString
